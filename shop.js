@@ -1,3 +1,4 @@
-let a=10;
-let b= 5;
+
+let a=20;
+let b=30;
 let c=a+b;
